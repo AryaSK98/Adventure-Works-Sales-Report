@@ -10,4 +10,4 @@ While doing this project, I was able to learn:
 * Create visualizations
 * Add slicers
 * Apply conditional formatting to tables and matrices
-* DAX functions such as SUM, CALCULATE, QUARTER, DAY, DIVIDE 
+* DAX functions such as SUM, CALCULATE, QUARTER, DAY, DIVIDE, IF
